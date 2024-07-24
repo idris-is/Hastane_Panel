@@ -117,7 +117,7 @@
             AutoScaleDimensions = new SizeF(14F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(192, 255, 192);
-            ClientSize = new Size(941, 270);
+            ClientSize = new Size(952, 267);
             Controls.Add(dataGridView1);
             Controls.Add(BtnGuncelle);
             Controls.Add(BtnSil);

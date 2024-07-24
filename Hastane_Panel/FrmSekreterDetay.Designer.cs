@@ -325,7 +325,7 @@
             // 
             BtnDuyurular.Location = new Point(558, 73);
             BtnDuyurular.Name = "BtnDuyurular";
-            BtnDuyurular.Size = new Size(173, 58);
+            BtnDuyurular.Size = new Size(175, 58);
             BtnDuyurular.TabIndex = 11;
             BtnDuyurular.Text = "Duyurular";
             BtnDuyurular.TextImageRelation = TextImageRelation.TextAboveImage;
@@ -336,9 +336,9 @@
             // 
             BtnRandevuListesi.Location = new Point(379, 73);
             BtnRandevuListesi.Name = "BtnRandevuListesi";
-            BtnRandevuListesi.Size = new Size(173, 58);
+            BtnRandevuListesi.Size = new Size(175, 58);
             BtnRandevuListesi.TabIndex = 10;
-            BtnRandevuListesi.Text = "Randevu Listesi";
+            BtnRandevuListesi.Text = "Randevular";
             BtnRandevuListesi.UseVisualStyleBackColor = true;
             BtnRandevuListesi.Click += BtnRandevuListesi_Click;
             // 
@@ -346,7 +346,7 @@
             // 
             BtnBransPaneli.Location = new Point(200, 73);
             BtnBransPaneli.Name = "BtnBransPaneli";
-            BtnBransPaneli.Size = new Size(173, 58);
+            BtnBransPaneli.Size = new Size(175, 58);
             BtnBransPaneli.TabIndex = 9;
             BtnBransPaneli.Text = "Branş Paneli";
             BtnBransPaneli.UseVisualStyleBackColor = true;
@@ -354,9 +354,9 @@
             // 
             // BtnDoktorPaneli
             // 
-            BtnDoktorPaneli.Location = new Point(21, 73);
+            BtnDoktorPaneli.Location = new Point(19, 73);
             BtnDoktorPaneli.Name = "BtnDoktorPaneli";
-            BtnDoktorPaneli.Size = new Size(173, 58);
+            BtnDoktorPaneli.Size = new Size(175, 58);
             BtnDoktorPaneli.TabIndex = 8;
             BtnDoktorPaneli.Text = "Doktor Paneli";
             BtnDoktorPaneli.UseVisualStyleBackColor = true;
